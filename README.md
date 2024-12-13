@@ -45,7 +45,6 @@ The project uses SQLite to store the data in a file named `mimo.db`. It includes
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/FitonXharra106/mimo-backend-challenge.git
-    cd mimo-backend
     ```
 
 2. **Install dependencies**:
