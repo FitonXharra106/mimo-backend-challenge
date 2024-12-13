@@ -20,6 +20,7 @@ This project is designed to manage a simple educational platform. It tracks cour
 4. **User**: Represents a user of the platform. Users can complete lessons and chapters, and they are tracked with their achievements.
 5. **Achievement**: Represents an achievement that a user can earn. Achievements are tied to the completion of lessons, chapters, or courses.
 6. **UserAchievement**: Tracks which achievements have been earned by users and their progress.
+7. **UserLesson**: Tracks which lessons have been started or completed by users.
 
 ## Database Setup
 
