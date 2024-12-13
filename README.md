@@ -77,6 +77,7 @@ This backend provides a simple structure that can be expanded with API endpoints
 
 The seed data includes:
 
+- **Users**: John Doe, Fiton Xharra (which are hardcoded just for testing purposes).
 - **Courses**: Swift, Javascript, and C#.
 - **Chapters**: Two chapters per course (Introduction and Advanced).
 - **Lessons**: Two lessons per chapter, covering basic to advanced topics.
